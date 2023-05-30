@@ -1,0 +1,87 @@
+body {
+    background: aqua;
+}
+.heading {
+    text-align: center;
+    
+    color: #f11658;
+    size: 80px;
+    font-size: larger;
+    margin-top: 250px;
+}
+.para {
+  text-align: center;
+  color: rgb(18, 18, 18);
+  
+}
+
+.us {
+    text-align: center;
+    color: rgb(9, 13, 225);
+    margin-top: 350px;
+}
+.p2 {
+    color:rgb(12, 13, 12);
+    width: 500px;
+    text-align-last: center;
+    float: right;
+    margin-right: 200px;
+    
+    margin-top: 100px;
+}
+.img {
+    float: left;
+    margin-left: 50px;
+    margin-top: 50px;
+   
+    
+}
+.team
+{
+    margin-top: 750px;
+    text-align: center;
+    color: rgb(9, 13, 225);
+}
+.card-title{
+    text-align: center;
+}
+.contact{
+    text-align: center;
+    color: rgb(9, 13, 225);
+    margin-top: 750px;
+}
+.subject {
+    float: right;
+    text-align-last: center;
+    margin-right: 200px;
+    
+}
+.coo {
+    float: left;
+    margin-left: 200px;
+    margin-top: 70px;
+}
+.Message {
+    text-align: center;
+    color: rgb(28, 30, 28);
+}
+.send {
+    margin-top: 10px;
+    margin-bottom: 500px;
+    margin-right: 500px;
+}
+.sub {
+    text-align: center;
+    margin-right: 500px;
+}
+.ss{
+    text-align: center;
+    margin-right: 500px;
+    margin-top: 50px;
+}
+.contact {
+    margin-top: 300px;
+}
+.acc {
+    margin-top: 50px;
+}
